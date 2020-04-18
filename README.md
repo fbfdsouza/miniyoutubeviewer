@@ -34,4 +34,3 @@ npm start
 
 
 ![map_sample](resources/miniyoutubeviewer.gif)
-# miniyoutubeviewer
