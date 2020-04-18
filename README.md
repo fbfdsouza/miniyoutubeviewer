@@ -6,6 +6,16 @@ to improve my knowledge about this subject.
 
 ## Get it up an running
 
+#### Create an .env file
+
+- create an .env file into the root project folder** and set your [Youtube API KEY]
+
+> .env
+
+```
+REACT_APP_API_KEY= <YOUTUBE_V3_API_KEY>
+```
+
 #### With Node and NPM Installed .
 
 1 - Install the dependencies
