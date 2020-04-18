@@ -8,7 +8,7 @@ to improve my knowledge about this subject.
 
 #### Create an .env file
 
-- create an .env file into the root project folder** and set your [Youtube API KEY]
+- create an .env file into the root project folder** and set your [Youtube API KEY](https://developers.google.com/youtube/v3/getting-started)
 
 > .env
 
