@@ -1,6 +1,6 @@
 # Mini Youtube Viewer
 
-This a mini youtube viewer inspired in one of the course's projects I took on [UDEMY - Modern React with Redux](https://www.udemy.com/course/react-redux/), the project in the couse was styled using [Bootstrap](https://getbootstrap.com/) but I decided to change it to use [Semantic-UI](https://semantic-ui.com/) instead, there was an issue to make the project responsive when resizing the screen, but this was fixed. It was build using [REACT](https://reactjs.org/) classes and simple function based components, but I am adapting it to use only [React Hooks](https://reactjs.org/docs/hooks-intro.html) in order 
+This is a mini youtube viewer inspired in one of the course's projects I took on [UDEMY - Modern React with Redux](https://www.udemy.com/course/react-redux/), the project in the couse was styled using [Bootstrap](https://getbootstrap.com/) but I decided to change it to use [Semantic-UI](https://semantic-ui.com/) instead, there was an issue to make the project responsive when resizing the screen, but this was fixed. It was build using [REACT](https://reactjs.org/) classes and simple function based components, but I am adapting it to use only [React Hooks](https://reactjs.org/docs/hooks-intro.html) in order 
 to improve my knowledge about this subject. 
 
 
