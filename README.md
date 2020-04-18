@@ -18,13 +18,13 @@ REACT_APP_API_KEY= <YOUTUBE_V3_API_KEY>
 
 #### With Node and NPM Installed .
 
-> Install the dependencies
+- Install the dependencies
 
 ```bash
 npm install
 ```
 
-> Execute the project
+- Execute the project
 ```bash
 npm start
 ```
