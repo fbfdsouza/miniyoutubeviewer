@@ -8,7 +8,7 @@ This is a mini youtube viewer inspired in one of the course's projects I took on
 
 - create an .env file into the root project folder and set your [Youtube API KEY](https://developers.google.com/youtube/v3/getting-started)
 
-.env
+> .env
 
 ```
 REACT_APP_API_KEY= <YOUTUBE_V3_API_KEY>
